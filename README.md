@@ -2,7 +2,7 @@
 
 研究生要听满8场人文讲座，线上讲座十分难抢，一般十秒钟就抢光了，隐隐之中感觉有人用了脚本抢讲座。
 
-代码主要贡献自https://github.com/Meoooww/fetch_lecture ，在他的基础上进行了整理，并借此温习了些网页知识。
+代码主要贡献自https://github.com/Meoooww/fetch_lecture ，在他的基础上进行了整理，并借此学习了些Web知识。
 
 流程如下：
 
